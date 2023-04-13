@@ -26,8 +26,8 @@
 
 ![Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=2496ED&logo=Ansible&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=2496ED&logo=Ansible&logoColor=FFFFFF&label=)
-![Helm](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=2496ED&logo=Ansible&logoColor=FFFFFF&label=)
+![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=2496ED&logo=Kubernetes&logoColor=FFFFFF&label=)
+![Helm](https://img.shields.io/static/v1?style=for-the-badge&message=Helm&color=2496ED&logo=Helm&logoColor=FFFFFF&label=)
 
 <!--
 **t0mab/t0mab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
