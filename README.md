@@ -2,7 +2,7 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=t0mab&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=t0mab&show_icons=true&theme=github_dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=t0mab&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0mab&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0mab&layout=compact&theme=github_dark)
 
 ### Environment
 
