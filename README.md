@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0mab&layout=compact&theme=vision-friendly-dark)
 
-### environment
+### Environment
 
 ![Archlinux](https://img.shields.io/badge/Archlinux-D70A53?style=for-the-badge&logo=archlinux&logoColor=white)
 ![i3](https://img.shields.io/static/v1?style=for-the-badge&message=I3&color=4A86CF&logo=i3wm&logoColor=FFFFFF&label=)
