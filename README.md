@@ -19,9 +19,15 @@
 ![Archlinux](https://img.shields.io/badge/Archlinux-D70A53?style=for-the-badge&logo=archlinux&logoColor=white)
 ![i3](https://img.shields.io/static/v1?style=for-the-badge&message=I3&color=4A86CF&logo=i3wm&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Devops
+
+![Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=2496ED&logo=Ansible&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=2496ED&logo=Ansible&logoColor=FFFFFF&label=)
+![Helm](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=2496ED&logo=Ansible&logoColor=FFFFFF&label=)
 
 <!--
 **t0mab/t0mab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
